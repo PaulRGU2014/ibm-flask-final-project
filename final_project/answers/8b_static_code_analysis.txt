@@ -1,0 +1,4 @@
+theia@theiadocker-ptthanatawee:/home/project/ibm-flask-final-project/final_project$ python3 -m pylint server.py
+
+------------------------------------
+Your code has been rated at 10.00/10
